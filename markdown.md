@@ -15,3 +15,63 @@
     - teste
 - teste
 #Lista de tarefas
+
+# Comandos de Markdown
+
+## Elementos de bloco
+
+* **Parágrafos e saltos de linha**
+
+Para iniciar um novo parágrafo, basta pressionar a tecla **Enter** duas vezes. Para inserir um salto de linha dentro de um parágrafo, basta pressionar a tecla **Enter** uma vez.
+
+* **Encabeçados**
+
+Para criar um cabeçalho, use o símbolo **#** seguido de um espaço e do texto do cabeçalho. O número de **#** determina o nível do cabeçalho.
+
+* **Citas**
+
+Para criar uma citação, use o caractere **>`** seguido do texto da citação.
+
+* **Listas**
+
+Para criar uma lista, use um marcador ou um número seguido de um espaço e do texto do item da lista.
+
+* **Código de bloco**
+
+Para criar um bloco de código, use três barras **```** no início e no final do código.
+
+* **Regra horizontal**
+
+Para criar uma regra horizontal, use três ou mais caracteres iguais seguidos de **----**.
+
+## Elementos de linha
+
+* **Ênfase**
+
+Para enfatizar texto, use um asterisco **\*** ou um traço-baixo **_** antes e depois do texto.
+
+* **Links**
+
+Para criar um link, use o símbolo **[]** seguido do texto do link e **()** seguido do URL do link.
+
+* **Imagens**
+
+Para inserir uma imagem, use o símbolo **![]** seguido do URL da imagem.
+
+* **Tabulação:** Para inserir uma tabulação, use o caractere **\t**.
+* **Quebra de linha:** Para inserir uma quebra de linha sem criar um novo parágrafo, use o caractere **\\**.
+* **Espaçamento:** Para inserir um espaço duplo, use o caractere **\ **.
+
+**Outros recursos**
+
+* **Conteúdo embutido:** Você pode inserir conteúdo de outros formatos em seu documento Markdown usando a sintaxe apropriada. Por exemplo, para inserir uma tabela do Excel, use a sintaxe **|coluna 1|coluna 2|coluna 3|**.
+* **Plugins:** Existem muitos plugins disponíveis para Markdown que adicionam novos recursos e funcionalidades.
+
+## Aprendendo Markdown
+
+A melhor maneira de aprender Markdown é praticar. Existem muitos recursos disponíveis para ajudá-lo a começar, incluindo tutoriais, cursos online e editores de Markdown que fornecem dicas e sugestões.
+
+
+Este arquivo pode ser aberto em qualquer editor de texto ou em um navegador da web. Para visualizar o resultado, basta salvar o arquivo com a extensão ".md".
+
+Espero que isso ajude!
