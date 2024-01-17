@@ -1,21 +1,59 @@
-# TituloN1 ou ## TituloN2 ou ###TituloN3
+# TituloN1 
+## TituloN2 
+### TituloN3
 ---
 ***
+
+### Formatação de texto
 **Negrito** ou __Negrito__
 *Italico* ou _Italico_
 ~~Riscado~~
-#Lista:
+---
+
+### Lista:
 1. Item1
 1. Item2
     1. Item3
 1. Item4
-#lista_Demarcada
+---
+
+### lista_Demarcada
 - teste
 - teste
     - teste
 - teste
-#Lista de tarefas
+---
 
+### Lista de tarefas
+- [x] Tarefa 1
+- [] Terafa 2
+- [] Terafa 3
+- [x] Terafa 4
+---
+
+### Criando Links
+[Link para meu perfil](https://github.com/Michelnr)
+
+### Tabelas
+num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | Jose | 10
+3 | Maria | 9
+---
+
+### Mostrando códigos
+Não entendi direito como funciona o comando 
+'Print('Olha Mundo!')'
+
+Não entendi como funciona esse código:
+'''
+num = 1
+print = num
+'''
+
+---
+***
 # Comandos de Markdown
 
 ## Elementos de bloco
